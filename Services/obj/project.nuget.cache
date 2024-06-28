@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mw667h2wA4OpcPfIF2efSF3+r9KieNq8MRANPtg10bxIiAnbEyjmyKmIv+QAVdoCvVUu7E6NUgPGgyVaL2/98Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stjEnes.Curuktas\\Desktop\\chat\\ChatBotAPI\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.playwright\\1.44.0\\microsoft.playwright.1.44.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

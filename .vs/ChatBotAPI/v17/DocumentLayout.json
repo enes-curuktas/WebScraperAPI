@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeler\\ChatBot\\ChatBotAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|c:\\projeler\\chatbot\\chatbotapi\\services\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|solutionrelative:services\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DB0EC2-080C-4D06-896A-7734994842C8}|WebAPI\\WebAPI.csproj|c:\\projeler\\chatbot\\chatbotapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4DB0EC2-080C-4D06-896A-7734994842C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DB0EC2-080C-4D06-896A-7734994842C8}|WebAPI\\WebAPI.csproj|c:\\projeler\\chatbot\\chatbotapi\\webapi\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DB0EC2-080C-4D06-896A-7734994842C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|c:\\projeler\\chatbot\\chatbotapi\\services\\keywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|solutionrelative:services\\keywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C305AB-DB4F-462C-A9A6-471BCA5A89BC}|Data\\Data.csproj|c:\\projeler\\chatbot\\chatbotapi\\data\\keywordextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C305AB-DB4F-462C-A9A6-471BCA5A89BC}|Data\\Data.csproj|solutionrelative:data\\keywordextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|c:\\projeler\\chatbot\\chatbotapi\\services\\interfaces\\ikeywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ikeywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|c:\\projeler\\chatbot\\chatbotapi\\services\\interfaces\\iscrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12AB6E-4424-43FC-BA31-6F17967AE4C9}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iscrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DB0EC2-080C-4D06-896A-7734994842C8}|WebAPI\\WebAPI.csproj|c:\\projeler\\chatbot\\chatbotapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DB0EC2-080C-4D06-896A-7734994842C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF02554-CCD6-4591-ACDE-2C345C0D1CF2}|Models\\Models.csproj|c:\\projeler\\chatbot\\chatbotapi\\models\\userquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF02554-CCD6-4591-ACDE-2C345C0D1CF2}|Models\\Models.csproj|solutionrelative:models\\userquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T20:18:02.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrapingService.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\ScrapingService.cs",
+              "RelativeDocumentMoniker": "Services\\ScrapingService.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\ScrapingService.cs",
+              "RelativeToolTip": "Services\\ScrapingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:44:05.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IScrapingService.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\Interfaces\\IScrapingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IScrapingService.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\Interfaces\\IScrapingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IScrapingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:43:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:09:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKeywordService.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\Interfaces\\IKeywordService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IKeywordService.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\Interfaces\\IKeywordService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IKeywordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:01:15.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatBotController.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\WebAPI\\Controllers\\ChatBotController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ChatBotController.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\WebAPI\\Controllers\\ChatBotController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ChatBotController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:45:06.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeywordService.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\KeywordService.cs",
+              "RelativeDocumentMoniker": "Services\\KeywordService.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Services\\KeywordService.cs",
+              "RelativeToolTip": "Services\\KeywordService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:02:14.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeywordExtractor.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Data\\KeywordExtractor.cs",
+              "RelativeDocumentMoniker": "Data\\KeywordExtractor.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Data\\KeywordExtractor.cs",
+              "RelativeToolTip": "Data\\KeywordExtractor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:55:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserQuestion.cs",
+              "DocumentMoniker": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Models\\UserQuestion.cs",
+              "RelativeDocumentMoniker": "Models\\UserQuestion.cs",
+              "ToolTip": "C:\\Projeler\\ChatBot\\ChatBotAPI\\Models\\UserQuestion.cs",
+              "RelativeToolTip": "Models\\UserQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:53:07.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

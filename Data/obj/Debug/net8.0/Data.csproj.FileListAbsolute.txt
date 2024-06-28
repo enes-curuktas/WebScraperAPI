@@ -1,0 +1,11 @@
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\bin\Debug\net8.0\Data.dll
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\Data.dll
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\Data\obj\Debug\net8.0\ref\Data.dll
