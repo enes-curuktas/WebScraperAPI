@@ -382,3 +382,4 @@ C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\WebAPI\obj\Debug\net8.0\refint
 C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\stjEnes.Curuktas\Desktop\chat\ChatBotAPI\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
